@@ -18,7 +18,7 @@
                 .then(response => response.text())
                 .then(markdownText => {
                     // Convert Markdown to HTML using marked library
-                    const htmlContent = marked(markdownText);
+                    const htmlContent = marked.parse(markdownText);
                     
                     // Display the HTML content
                     markdownContent.innerHTML = htmlContent;
