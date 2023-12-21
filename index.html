@@ -5,6 +5,7 @@
   <body>
     <div id="markdown-content"></div>
 
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         // Function to fetch and render the Markdown content
         function renderMarkdown() {
@@ -16,9 +17,8 @@
             fetch(markdownFileURL)
                 .then(response => response.text())
                 .then(markdownText => {
-                    // Convert Markdown to HTML
-                    const converter = new showdown.Converter();
-                    const htmlContent = converter.makeHtml(markdownText);
+                    // Convert Markdown to HTML using marked library
+                    const htmlContent = marked(markdownText);
                     
                     // Display the HTML content
                     markdownContent.innerHTML = htmlContent;
@@ -31,8 +31,6 @@
         // Call the renderMarkdown function when the page loads
         window.addEventListener('load', renderMarkdown);
     </script>
-
-    <!-- Include the Showdown library (Markdown to HTML converter) -->
-    <script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
+    
 </body>
 </html>
