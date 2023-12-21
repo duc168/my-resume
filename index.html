@@ -3,6 +3,36 @@
     <title>Victor Tran's Resume</title>
   </head>
   <body>
-    <h1>Victor Tran's Resume</h1>
-  </body>
+    <div id="markdown-content"></div>
+
+    <script>
+        // Function to fetch and render the Markdown content
+        function renderMarkdown() {
+            const markdownContent = document.getElementById("markdown-content");
+
+            // Replace 'your-markdown-file.md' with the path to your Markdown file
+            const markdownFileURL = 'https://raw.githubusercontent.com/duc168/my-resume/main/README.MD';
+
+            fetch(markdownFileURL)
+                .then(response => response.text())
+                .then(markdownText => {
+                    // Convert Markdown to HTML
+                    const converter = new showdown.Converter();
+                    const htmlContent = converter.makeHtml(markdownText);
+                    
+                    // Display the HTML content
+                    markdownContent.innerHTML = htmlContent;
+                })
+                .catch(error => {
+                    console.error('Error fetching Markdown:', error);
+                });
+        }
+
+        // Call the renderMarkdown function when the page loads
+        window.addEventListener('load', renderMarkdown);
+    </script>
+
+    <!-- Include the Showdown library (Markdown to HTML converter) -->
+    <script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
+</body>
 </html>
