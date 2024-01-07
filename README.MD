@@ -35,7 +35,7 @@ Senior Developer with nearly 9 years of experience across multiple roles includi
   - Applied HTML, CSS, JavaScript, and front-end libraries and frameworks.
   - Employed Turbo to manage multiple applications within a single monorepo, enhancing project structure and maintainability.
   - Leveraged Mantine for designing robust and visually appealing user interfaces, enhancing the overall user experience.
-  - Wrote comprehensive unit tests for frontend components, ensuring high-quality code qyality, consistency and user experiences.
+  - Wrote comprehensive unit tests for frontend components, ensuring high-quality code quality, consistency and user experiences.
 - **DevOps Responsibilities**:
   - Leveraged AWS Cloud Development Kit (CDK) to define cloud infrastructure using familiar programming languages (Typescript, Javascript).
   - Automated deployment processes, ensuring efficient, repeatable, and reliable infrastructure setups.
