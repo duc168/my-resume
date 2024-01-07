@@ -5,7 +5,7 @@ Skype: tranhducvnn
 
 
 ## Professional Summary
-Senior Developer with nearly 9 years of experience across multiple roles including Frontend, Backend, Full Stack, and DevOps. Proficient in modern technologies and programming languages, committed to delivering high-quality, efficient, and scalable solutions.
+Senior Developer with years of experience across multiple roles including Frontend, Backend, Full Stack, and DevOps. Proficient in modern technologies and programming languages, committed to delivering high-quality, efficient, and scalable solutions.
 
 ## Skills
 - **Programming Languages:** TypeScript/JavaScript, Python, C#, HTML, CSS
