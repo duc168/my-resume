@@ -1,7 +1,7 @@
 # Victor Tran
-Senior Developer  
-Email: victor.tran.august@gmail.com  
-Skype: tranhducvnn
+- Senior Developer  
+- Email: victor.tran.august@gmail.com  
+- Skype: tranhducvnn
 
 
 ## Professional Summary
