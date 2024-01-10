@@ -58,7 +58,7 @@
 
 ### Sipher
 - **Position**: Fullstack Developer
-- **Duration**: February 2022 to August 2022
+- **Duration**: February 2022 - August 2022
 - **Responsibilities**:
   - Developed a new website with advanced GSAP animations, significantly enhancing visual appeal and user engagement.
   - Utilizing FullPage.js to create an immersive and interactive scrolling experience for users.
@@ -74,7 +74,7 @@
 
 ### Autonomous
 - **Position**: Frontend Developer
-- **Duration**: December 2020 to February 2022
+- **Duration**: December 2020 - February 2022
 - **Responsibilities**:
   - Involved in projects like JAM Gen1, JAM Gen2 (Mosh), Hybrid, Work Anywhere, and Canvas Editor React Library.
   - Built interactive web/desktop applications with a focus on usability and performance.
@@ -92,7 +92,7 @@
 
 ### Farmi
 - **Position**: Web Developer
-- **Duration**: November 2019 to November 2020
+- **Duration**: November 2019 - November 2020
 - **Responsibilities**:
   - Improved the efficiency of the Farmi ERP System.
   - Developed new features and researched new technologies.
@@ -118,7 +118,7 @@
 
 ### Diamond Corp
 - **Position**: Web Developer
-- **Duration**: May 2017 to December 2018
+- **Duration**: May 2017 - December 2018
 - **Responsibilities**:
   - Developed systems like Diamond ERP, HR, and CSR systems.
   - Managed server hardware and software, and developed multiple web applications.
@@ -131,7 +131,7 @@
 
 ### Digiwin
 - **Position**: ERP Developer
-- **Duration**: March 2015 to April 2017
+- **Duration**: March 2015 - April 2017
 - **Responsibilities**:
   - Developed ERP systems based on Digiwin’s Workflow ERP GP.
   - Focused on collecting requirements, developing systems, and using technologies like Delphi and Java.
