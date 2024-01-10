@@ -12,7 +12,7 @@
 - **编程语言：** TypeScript/JavaScript, Python, C#, HTML, CSS
 - **前端框架/库：** Next.js, React.js, Vue.js, Angular
 - **后端框架：** Express.js, Nest.js, Django, .NET Core, .NET Framework
-- **DevOps：** Docker, Kubernetes, CI/CD, 云服务（#谷歌云平台 #AWS #Azure）
+- **DevOps：** Docker, Kubernetes, CI/CD, Cloud Services (#Google Cloud Platform #AWS #Azure)
 - **桌面开发框架：** Electron.js
 - **源代码控制：** Github, Gitlab, Bitbucket, GCP Source Repositories, Azure Devops
 
@@ -87,3 +87,62 @@
   - 在前端开发中展示出卓越的技术技能。
 - **关键技术**：
   - Phaser.js, Electron.js, React.js, Konva.js, WebRTC, Firebase, Node.js, Express.js, Nest.js, Gin (GoLang), Socket.io, Twilio, Agora, React Planner, Webpack, Gitlab
+
+### Farmi
+- **职位**：网络开发人员
+- **工作时间**：2019年11月 - 2020年11月
+- **职责**：
+  - 提高 Farmi ERP 系统的效率。
+  - 开发新功能并研究新技术。
+  - 与工程师和产品经理合作进行 API 设计和功能测试。
+- **主要成就**：
+  - 提高 ERP 系统的整体效率和功能性。
+  - 在技术整合方面展现出适应性和熟练度。
+- **关键技术**：
+  - Java & Javascript, Play Framework, Spring Boot Framework, Elasticsearch, Node.js, Deno.js, Angular 8, Javascript & Typescripts, HTML, CSS, SASS, Rxjs, Webpack, GraphQL, Firebase, NVM (Node版本管理器), Google Cloud Platform (Cloud Run, Cloud Build, Compute Engine, Source Repositories, Kubernetes Engine, Container Registry, Logging, CI/CD), Docker, Docker Compose, Gitlab
+
+### S3 公司
+- **职位**：网络开发人员
+- **工作时间**：2019年1月 - 2019年11月
+- **职责**：
+  - 参与 Site Manager (SM) 和部署工具的工作。
+  - 涉及 SCRUM 工作流程、功能开发和用户支持。
+  - 使用的技术包括 C#、.NET Framework、Azure 和各种网络技术。
+- **主要成就**：
+  - 提升了 Site Manager 平台的功能性和用户体验。
+  - 通过工具开发改进部署流程。
+- **关键技术**：
+  - C#, .NET Framework 4, Entity Framework 4, LINQ, Redis, Azure Storage, Razor View (CSHTML), CSS, Javascript, jQuery, Slick, Bootstrap 4, AJAX, JIRA, Windows Form
+
+### 钻石公司
+- **职位**：网络开发人员
+- **工作时间**：2017年5月 - 2018年12月
+- **职责**：
+  - 开发像 Diamond ERP、HR 和 CSR 系统这样的系统。
+  - 管理服务器硬件和软件，并开发多个网络应用程序。
+  - 使用的技术包括 C#、.NET Framework/Core、Angular、Node.js 和 SQL Server。
+- **主要成就**：
+  - 通过系统开发和管理为运营效率作出贡献。
+  - 确保服务器硬件和软件的最佳性能。
+- **关键技术**：
+  - C#, .NET Framework 4, MVC, Entity Framework4, LINQ, SQL Server, .NET Core 2.0, Entity Framework Core, Web API, Javascript & Typescript, Node.js Version 10, MongoDB, Mongoose, Express.js, JWT, Razor View (CSHTML), Javascript, KendoUI, RDLC Report, CSS, Jquery, Angular 4, Devextreme, Bootstrap 3
+
+### Digiwin
+- **职位**：ERP 开发人员
+- **工作时间**：2015年3月 - 2017年4月
+- **职责**：
+  - 根据 Digiwin 的 Workflow ERP GP 开发 ERP 系统。
+  - 专注于收集需求、开发系统，并使用 Delphi 和 Java 等技术。
+- **主要成就**：
+  - 为多个跨国客户提供 ERP 解决方案，展示客户管理技能。
+  - 根据具体客户需求定制 ERP 解决方案。
+- **关键技术**：
+  - Delphi, Java
+
+## 语言和个人兴趣
+### 语言
+- 英语和中文（普通话）流利
+- 日语和粤语基本熟练。
+### 个人兴趣
+- 热衷于持续学习
+- 保持对最新技术的了解。
