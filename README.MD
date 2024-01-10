@@ -54,7 +54,7 @@ Proficient in modern technologies and programming languages, committed to delive
   - Led development of key projects, ensuring timely delivery and high-quality standards.
   - Fostered collaborative environment with multicultural team of engineers.
 - **Key Technologies**:
-  - Python, Django, FastAPI, Typescript, Javascript, Nest.js, Next.js, React.js, Vite.js, HTML, CSS, Mantine, Styled Component, AWS CDK, Docker, AWS ECS, MySQL, MongoDB, Redis, AWS SQS, AWS Lambda, AWS DynamoDB, AWS Cloudfront, AWS S3, AWS Route 53, AWS Amplify
+  - Python, Django, FastAPI, Typescript, Javascript, Nest.js, Next.js, React.js, Vite.js, Node.js, HTML, CSS, Mantine, Styled Component, Docker, MySQL, MongoDB, Redis, AWS CDK, AWS Cloud Services (AWS SQS, AWS ECS, AWS Lambda, AWS DynamoDB, AWS Cloudfront, AWS S3, AWS Route 53, AWS Amplify)
 
 ### Sipher
 - **Position**: Fullstack Developer
@@ -70,7 +70,7 @@ Proficient in modern technologies and programming languages, committed to delive
   - Built and launched significant digital products, enhancing company's digital presence.
   - Led a technical team, contributing significantly to project success.
 - **Key Technologies**:
-  - Electron JS, React JS, Fullpage.js, Node JS, Nest JS, Chakra UI, AWS Cloud Service.
+  - Electron.js, React.js, Next.js, Fullpage.js, Node.js, Nest.js, Chakra UI, web3-react, GSAP, Framer Motion AWS Cloud Services (AWS Amplify, AWS S3, AWS Cloudfront, AWS EKS)
 
 ### Autonomous
 - **Position**: Frontend Developer
@@ -87,7 +87,7 @@ Proficient in modern technologies and programming languages, committed to delive
   - Enhanced user engagement through innovative application development.
   - Showcased exceptional technical skills in frontend development.
 - **Key Technologies**:
-  - PhaserJS, Electron JS, React JS, WebRTC, Firebase, Node JS, React Planner, Twilio, Agora
+  - Phaser.js, Electron.js, React.js, WebRTC, Firebase, Node.js, React Planner, Twilio, Agora
 
 
 ### Farmi
