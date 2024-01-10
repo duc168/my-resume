@@ -72,7 +72,7 @@
 
 ### Autonomous
 - **Vị trí:** Frontend
-- **Thời gian:** Từ tháng 12 năm 2020 đến tháng 2 năm 2022
+- **Thời gian:** Từ tháng 12 năm 2020 - tháng 2 năm 2022
 - **Trách nhiệm**:
   - Tham gia vào các dự án như JAM Gen1, JAM Gen2 (Mosh), Hybrid, Work Anywhere và Canvas Editor React Library.
   - Xây dựng các ứng dụng web/máy tính để bàn tương tác với sự tập trung vào tính khả dụng và hiệu suất.
@@ -102,7 +102,7 @@
 
 ### Tập đoàn S3
 - **Vị trí**: Kỹ sư phần mềm
-- **Thời gian**: Từ tháng 1 năm 2019 đến tháng 11 năm 2019
+- **Thời gian**: Từ tháng 1 năm 2019 - tháng 11 năm 2019
 - **Trách nhiệm**:
   - Làm việc trên Trình quản lý Trang web (SM) và các công cụ triển khai.
   - Tham gia vào quy trình SCRUM, phát triển tính năng và hỗ trợ người dùng.
@@ -115,7 +115,7 @@
 
 ### Công ty Diamond
 - **Vị trí**: Kỹ sư phần mềm
-- **Thời gian**: Từ tháng 5 năm 2017 đến tháng 12 năm 2018
+- **Thời gian**: Từ tháng 5 năm 2017 - tháng 12 năm 2018
 - **Trách nhiệm**:
   - Phát triển các hệ thống như Hệ thống Diamond ERP, HR và CSR.
   - Quản lý phần cứng và phần mềm máy chủ và phát triển nhiều ứng dụng web.
@@ -128,7 +128,7 @@
 
 ### Digiwin
 - **Vị trí**: Kỹ sư phần mềm
-- **Thời gian**: Từ tháng 3 năm 2015 đến tháng 4 năm 2017
+- **Thời gian**: Từ tháng 3 năm 2015 - tháng 4 năm 2017
 - **Trách nhiệm**:
   - Phát triển các hệ thống ERP dựa trên Hệ thống ERP GP của Digiwin.
   - Tập trung vào việc thu thập yêu cầu, phát triển hệ thống và sử dụng các công nghệ như Delphi và Java.
