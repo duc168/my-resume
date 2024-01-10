@@ -1,7 +1,6 @@
 # 陈怀德
 - 职位：高级开发人员  
-- 电子邮件：victor.tran.august@gmail.com  
-- Skype：tranhducvnn
+- 电子邮件：victor.tran.august@gmail.com
 - 网站：https://duc168.com
 
 ## 专业概述
