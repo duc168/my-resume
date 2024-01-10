@@ -104,7 +104,7 @@
 
 ### S3 Corporation
 - **Position**: Web Developer
-- **Duration**: January 2019 to November 2019
+- **Duration**: January 2019 - November 2019
 - **Responsibilities**:
   - Worked on Site Manager (SM) and deployment tools.
   - Involved in SCRUM workflow, feature development, and user support.
