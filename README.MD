@@ -1,7 +1,6 @@
 # Victor Tran
 - Title: Senior Developer  
 - Email: victor.tran.august@gmail.com  
-- Skype: tranhducvnn
 - Website: https://duc168.com
 
 
