@@ -16,7 +16,7 @@ Proficient in modern technologies and programming languages, committed to delive
 - **Backend Frameworks:** Express.js, Nest.js, Django, .NET Core, .NET Framework
 - **DevOps:** Docker, Kubernetes, CI/CD, Cloud Services (Google Cloud Platform, AWS, Azure)
 - **Desktop Development Framework**: Electron
-- **Source Control**: Github, Gitlab, Bitbucket,GCP Source Repositories, Azure Devops
+- **Source Control**: Github, Gitlab, Bitbucket, GCP Source Repositories, Azure Devops
 
 ## Professional Experience
 
@@ -55,7 +55,7 @@ Proficient in modern technologies and programming languages, committed to delive
   - Led development of key projects, ensuring timely delivery and high-quality standards.
   - Fostered collaborative environment with multicultural team of engineers.
 - **Key Technologies**:
-  - Python, Django, FastAPI, Typescript, Javascript, Nest.js, Next.js, React.js, Vite.js, Node.js, HTML, CSS, Mantine, Styled Component, Docker, MySQL, MongoDB, Redis, AWS CDK, AWS Cloud Services (AWS SQS, AWS ECS, AWS Lambda, AWS DynamoDB, AWS Cloudfront, AWS S3, AWS Route 53, AWS Amplify), Github
+  - Python, Django, FastAPI, Typescript, Javascript, Nest.js, Next.js, React.js, Vite.js, Node.js, HTML, CSS, Mantine, Styled Component, Docker, MySQL, MongoDB, Redis, AWS CDK, AWS Cloud Services (AWS SQS, AWS ECS, AWS Lambda, AWS DynamoDB, AWS Cloudfront, AWS S3, AWS Route 53, AWS Amplify), Github, JIRA
 
 ### Sipher
 - **Position**: Fullstack Developer
@@ -114,6 +114,8 @@ Proficient in modern technologies and programming languages, committed to delive
 - **Key Achievements**:
   - Enhanced the functionality and user experience of the Site Manager platform.
   - Improved deployment processes through tool development.
+- **Key Technologies**:
+  - C#, .NET Framework 4, Entity Framework 4, LINQ, Redis, Azure Storage, Razor View (CSHTML), CSS, Javascript, jQuery, Slick, Bootstrap 4, AJAX, JIRA, Windows Form
 
 ### Diamond Corp
 - **Position**: Web Developer
@@ -125,6 +127,8 @@ Proficient in modern technologies and programming languages, committed to delive
 - **Key Achievements**:
   - Contributed to operational efficiency through system development and management.
   - Ensured optimal performance of server hardware and software.
+- **Key Technologies**:
+  -  C#, .NET Framework 4, MVC, Entity Framework4, LINQ, SQL Server, .NET Core 2.0. Entity Framework Core, Web API, Javascript & Typescript, Node.js Version 10, MongoDB, Mongoose, Express.js, JWT, Razor View (CSHTML), Javascript, KendoUI, RDLC Report, CSS, Jquery, Angular 4, Devextreme, Bootstrap 3
 
 ### Digiwin
 - **Position**: ERP Developer
@@ -135,6 +139,8 @@ Proficient in modern technologies and programming languages, committed to delive
 - **Key Achievements**:
   - Delivered ERP solutions to various multinational clients, showcasing client-management skills.
   - Customized ERP solutions to meet specific client requirements.
+- **Key Technologies**:
+  - Delphi, Java
 
 
 ## Languages and Personal Interests
