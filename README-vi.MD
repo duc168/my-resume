@@ -1,7 +1,7 @@
 # Victor Trần
 - Vị trí: Kỹ sư phần mềm 
 - Email: victor.tran.august@gmail.com
-- Website: duc168.com
+- Website: https://duc168.com
 
 ## Tóm tắt
 - Nhà phát triển phần mềm với nhiều năm kinh nghiệm trong nhiều vai trò bao gồm Frontend, Backend, Full Stack và DevOps.
