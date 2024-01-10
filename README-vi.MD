@@ -5,7 +5,7 @@
 - Website: [https://duc168.com](https://duc168.com)
 
 ## Tóm tắt
-- Nhà phát triển cấp cao với nhiều năm kinh nghiệm trong nhiều vai trò bao gồm Frontend, Backend, Full Stack và DevOps.
+- Nhà phát triển phần mềm với nhiều năm kinh nghiệm trong nhiều vai trò bao gồm Frontend, Backend, Full Stack và DevOps.
 - Thành thạo các công nghệ và ngôn ngữ lập trình hiện đại, cam kết cung cấp các giải pháp IT chất lượng cao, hiệu quả và có khả năng mở rộng.
 
 ## Kỹ năng
