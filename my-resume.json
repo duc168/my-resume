@@ -8,8 +8,7 @@
         "Senior Developer with years of experience across multiple roles including Frontend, Backend, Full Stack, and DevOps.",
         "Proficient in modern technologies and programming languages, committed to delivering high-quality, efficient, and scalable solutions."
     ],
-    "skills": {
-        "items": [
+    "skills": [
         {
             "title": "Programming Languages",
             "items": [
@@ -54,9 +53,8 @@
                 "Electron"
             ]
         }
-    ]},
-    "workHistory": {
-        "items": [
+    ],
+    "workHistory": [
         {
             "company": {
                 "name": "Resola"
@@ -298,7 +296,7 @@
                 ]
             }
         }
-    ]},
+    ],
     "quotes": [
         {
             "content": "The best way out is always through",
@@ -329,9 +327,7 @@
             "author": "W. Clement Stone"
         }
     ],
-    "others": {
-        "title": "Languages and Personal Interests",
-        "items": [
+    "others": [
         {
             "title": "Languages",
             "items": [
@@ -347,5 +343,5 @@
             ]
         }
     ]
-    }
+    
 }
