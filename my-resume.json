@@ -3,12 +3,12 @@
     "position": "Senior Developer",
     "email": "victor.tran.august@gmail.com",
     "skype": "tranhducvnn",
+    "website": "https://duc168.com",
     "descriptions": [
         "Senior Developer with years of experience across multiple roles including Frontend, Backend, Full Stack, and DevOps.",
         "Proficient in modern technologies and programming languages, committed to delivering high-quality, efficient, and scalable solutions."
     ],
     "skills": {
-        "title": "Skills",
         "items": [
         {
             "title": "Programming Languages",
@@ -56,7 +56,6 @@
         }
     ]},
     "workHistory": {
-        "title": "Work History",
         "items": [
         {
             "company": {
