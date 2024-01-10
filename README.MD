@@ -143,5 +143,9 @@
 
 
 ## Languages and Personal Interests
-- Fluent in English and Chinese (Mandarin), basic proficiency in Japanese and Cantonese.
-- Passionate about continuous learning and staying abreast of the latest technologies.
+### Languages
+- Fluent in English and Chinese (Mandarin)
+- Basic proficiency in Japanese and Cantonese.
+### Personal Interests
+- Passionate about continuous learning 
+- Staying abreast of the latest technologies.
