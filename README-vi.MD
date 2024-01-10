@@ -1,4 +1,4 @@
-# Victor Tran
+# Victor Trần
 - Vị trí: Kỹ sư phần mềm 
 - Email: victor.tran.august@gmail.com
 - Skype: tranhducvnn
