@@ -12,7 +12,7 @@
 - **Ngôn ngữ lập trình:** TypeScript/JavaScript, Python, C#, HTML, CSS
 - **Các Framework/Thư viện Frontend:** Next.js, React.js, Vue.js, Angular
 - **Các Framework Backend:** Express.js, Nest.js, Django, .NET Core, .NET Framework
-- **DevOps:** Docker, Kubernetes, CI/CD, Dịch vụ Đám mây (#Google Cloud Platform #AWS #Azure)
+- **DevOps:** Docker, Kubernetes, CI/CD, Cloud Services (#Google Cloud Platform #AWS #Azure)
 - **Framework phát triển ứng dụng Desktop:** Electron.js
 - **Quản lý mã nguồn:** Github, Gitlab, Bitbucket, GCP Source Repositories, Azure Devops
 
