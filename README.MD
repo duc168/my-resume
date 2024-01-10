@@ -16,6 +16,7 @@ Proficient in modern technologies and programming languages, committed to delive
 - **Backend Frameworks:** Express.js, Nest.js, Django, .NET Core, .NET Framework
 - **DevOps:** Docker, Kubernetes, CI/CD, Cloud Services (Google Cloud Platform, AWS, Azure)
 - **Desktop Development Framework**: Electron
+- **Source Control**: Github, Gitlab, Bitbucket,GCP Source Repositories, Azure Devops
 
 ## Professional Experience
 
@@ -54,7 +55,7 @@ Proficient in modern technologies and programming languages, committed to delive
   - Led development of key projects, ensuring timely delivery and high-quality standards.
   - Fostered collaborative environment with multicultural team of engineers.
 - **Key Technologies**:
-  - Python, Django, FastAPI, Typescript, Javascript, Nest.js, Next.js, React.js, Vite.js, Node.js, HTML, CSS, Mantine, Styled Component, Docker, MySQL, MongoDB, Redis, AWS CDK, AWS Cloud Services (AWS SQS, AWS ECS, AWS Lambda, AWS DynamoDB, AWS Cloudfront, AWS S3, AWS Route 53, AWS Amplify)
+  - Python, Django, FastAPI, Typescript, Javascript, Nest.js, Next.js, React.js, Vite.js, Node.js, HTML, CSS, Mantine, Styled Component, Docker, MySQL, MongoDB, Redis, AWS CDK, AWS Cloud Services (AWS SQS, AWS ECS, AWS Lambda, AWS DynamoDB, AWS Cloudfront, AWS S3, AWS Route 53, AWS Amplify), Github
 
 ### Sipher
 - **Position**: Fullstack Developer
@@ -70,7 +71,7 @@ Proficient in modern technologies and programming languages, committed to delive
   - Built and launched significant digital products, enhancing company's digital presence.
   - Led a technical team, contributing significantly to project success.
 - **Key Technologies**:
-  - Electron.js, React.js, Next.js, Fullpage.js, Node.js, Nest.js, Chakra UI, web3-react, GSAP, Framer Motion AWS Cloud Services (AWS Amplify, AWS S3, AWS Cloudfront, AWS EKS)
+  - Electron.js, React.js, Next.js, Fullpage.js, Node.js, Nest.js, Chakra UI, web3-react, GSAP, Framer Motion AWS Cloud Services (AWS Amplify, AWS S3, AWS Cloudfront, AWS EKS), Github
 
 ### Autonomous
 - **Position**: Frontend Developer
@@ -87,7 +88,7 @@ Proficient in modern technologies and programming languages, committed to delive
   - Enhanced user engagement through innovative application development.
   - Showcased exceptional technical skills in frontend development.
 - **Key Technologies**:
-  - Phaser.js, Electron.js, React.js, WebRTC, Firebase, Node.js, React Planner, Twilio, Agora
+  - Phaser.js, Electron.js, React.js, Konva.js, WebRTC, Firebase, Node.js, Express.js, Nest.js, Gin (GoLang), Socket.io, Twilio, Agora, React Planner, Webpack, Gitlab
 
 
 ### Farmi
@@ -100,6 +101,8 @@ Proficient in modern technologies and programming languages, committed to delive
 - **Key Achievements**:
   - Improved the overall efficiency and functionality of the ERP system.
   - Demonstrated adaptability and proficiency in technology integration.
+- **Key Technologies**:
+  - Java & Javascript, Play Framework, Spring Boot Framework, Elasticsearch, Node.js, Deno.js, Angular 8, Javascript & Typescripts, HTML, CSS, SASS, Rxjs, Webpack, GraphQL, Firebase, NVM (Node Version Manager),Google Cloud Platform (Cloud Run, Cloud Build, Compute Engine, Source Repositories, Kubernetes Engine, Container Registry, Logging, CI/CD), Docker, Docker Compose, Gitlab
 
 ### S3 Corporation
 - **Position**: Web Developer
