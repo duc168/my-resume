@@ -15,7 +15,7 @@ Proficient in modern technologies and programming languages, committed to delive
 - **Frontend Frameworks/Libraries:** Next.js, React.js, Vue.js, Angular
 - **Backend Frameworks:** Express.js, Nest.js, Django, .NET Core, .NET Framework
 - **DevOps:** Docker, Kubernetes, CI/CD, Cloud Services (Google Cloud Platform, AWS, Azure)
-- **Desktop Development Framework**: Electron
+- **Desktop Development Framework**: Electron.js
 - **Source Control**: Github, Gitlab, Bitbucket, GCP Source Repositories, Azure Devops
 
 ## Professional Experience
