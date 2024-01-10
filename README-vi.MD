@@ -1,12 +1,12 @@
 # Victor Tran
-- Chức vụ: Nhà phát triển cấp cao
+- Chức vụ: Kỹ sư phần mềm 
 - Email: victor.tran.august@gmail.com
 - Skype: tranhducvnn
 - Website: [https://duc168.com](https://duc168.com)
 
-## Tóm tắt Chuyên nghiệp
+## Tóm tắt
 - Nhà phát triển cấp cao với nhiều năm kinh nghiệm trong nhiều vai trò bao gồm Frontend, Backend, Full Stack và DevOps.
-- Thạo các công nghệ và ngôn ngữ lập trình hiện đại, cam kết cung cấp các giải pháp chất lượng cao, hiệu quả và có khả năng mở rộng.
+- Thành thạo các công nghệ và ngôn ngữ lập trình hiện đại, cam kết cung cấp các giải pháp IT chất lượng cao, hiệu quả và có khả năng mở rộng.
 
 ## Kỹ năng
 - **Ngôn ngữ lập trình:** TypeScript/JavaScript, Python, C#, HTML, CSS
@@ -16,10 +16,10 @@
 - **Framework phát triển ứng dụng Desktop:** Electron.js
 - **Quản lý mã nguồn:** Github, Gitlab, Bitbucket, GCP Source Repositories, Azure Devops
 
-## Kinh nghiệm Chuyên nghiệp
+## Kinh nghiệm làm việc
 
 ### Resola
-- **Vị trí:** Trưởng nhóm Fullstack
+- **Vị trí:** Trưởng nhóm
 - **Thời gian:** Tháng 9 năm 2022 - Hiện tại
 - **Trách nhiệm Backend**:
   - Phát triển và duy trì hệ thống backend dựa trên Python bằng Django và FastAPI.
@@ -56,7 +56,7 @@
   - Python, Django, FastAPI, Typescript, Javascript, Nest.js, Next.js, React.js, Vite.js, Node.js, HTML, CSS, Mantine, Styled Component, Docker, MySQL, MongoDB, Redis, AWS CDK, Các Dịch vụ Đám mây AWS (AWS SQS, AWS ECS, AWS Lambda, AWS DynamoDB, AWS Cloudfront, AWS S3, AWS Route 53, AWS Amplify), Github, JIRA
 
 ### Sipher
-- **Vị trí:** Nhà phát triển Fullstack
+- **Vị trí:** Fullstack
 - **Thời gian:** Tháng 2 năm 2022 - Tháng 8 năm 2022
 - **Trách nhiệm**:
   - Phát triển trang web mới với các hiệu ứng GSAP tiên tiến, tăng cường sự hấp dẫn và tương tác của người dùng.
@@ -72,7 +72,7 @@
   - Electron.js, React.js, Next.js, Fullpage.js, Node.js, Nest.js, Chakra UI, web3-react, GSAP, Framer Motion, Dịch vụ Đám mây AWS (AWS Amplify, AWS S3, AWS Cloudfront, AWS EKS), Github
 
 ### Autonomous
-- **Vị trí:** Nhà phát triển Frontend
+- **Vị trí:** Frontend
 - **Thời gian:** Từ tháng 12 năm 2020 đến tháng 2 năm 2022
 - **Trách nhiệm**:
   - Tham gia vào các dự án như JAM Gen1, JAM Gen2 (Mosh), Hybrid, Work Anywhere và Canvas Editor React Library.
@@ -102,7 +102,7 @@
   - Java & Javascript, Khung làm việc Play, Khung Spring Boot, Elasticsearch, Node.js, Deno.js, Angular 8, Javascript & Typescripts, HTML, CSS, SASS, Rxjs, Webpack, GraphQL, Firebase, NVM (Quản lý phiên bản Node), Google Cloud Platform (Cloud Run, Cloud Build, Compute Engine, Source Repositories, Kubernetes Engine, Container Registry, Logging, CI/CD), Docker, Docker Compose, Gitlab
 
 ### Tập đoàn S3
-- **Vị trí**: Nhà phát triển Web
+- **Vị trí**: Kỹ sư phần mềm
 - **Thời gian**: Từ tháng 1 năm 2019 đến tháng 11 năm 2019
 - **Trách nhiệm**:
   - Làm việc trên Trình quản lý Trang web (SM) và các công cụ triển khai.
@@ -115,7 +115,7 @@
   - C#, .NET Framework 4, Entity Framework 4, LINQ, Redis, Azure Storage, Razor View (CSHTML), CSS, Javascript, jQuery, Slick, Bootstrap 4, AJAX, JIRA, Windows Form
 
 ### Công ty Diamond
-- **Vị trí**: Nhà phát triển Web
+- **Vị trí**: Kỹ sư phần mềm
 - **Thời gian**: Từ tháng 5 năm 2017 đến tháng 12 năm 2018
 - **Trách nhiệm**:
   - Phát triển các hệ thống như Hệ thống Diamond ERP, HR và CSR.
@@ -128,7 +128,7 @@
   - C#, .NET Framework 4, MVC, Entity Framework 4, LINQ, SQL Server, .NET Core 2.0, Entity Framework Core, Web API, Javascript & Typescript, Node.js Phiên bản 10, MongoDB, Mongoose, Express.js, JWT, Razor View (CSHTML), Javascript, KendoUI, Báo cáo RDLC, CSS, Jquery, Angular 4, Devextreme, Bootstrap 3
 
 ### Digiwin
-- **Vị trí**: Nhà phát triển ERP
+- **Vị trí**: Kỹ sư phần mềm
 - **Thời gian**: Từ tháng 3 năm 2015 đến tháng 4 năm 2017
 - **Trách nhiệm**:
   - Phát triển các hệ thống ERP dựa trên Hệ thống ERP GP của Digiwin.
