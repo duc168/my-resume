@@ -1,5 +1,5 @@
 # Victor Tran
-- Vị trí: Kỹ sư phần mềm 
+- Title: Kỹ sư phần mềm 
 - Email: victor.tran.august@gmail.com
 - Skype: tranhducvnn
 - Website: [https://duc168.com](https://duc168.com)
