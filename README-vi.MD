@@ -18,7 +18,7 @@
 ## Kinh nghiệm làm việc
 
 ### Resola
-- **Vị trí:** Trưởng nhóm
+- **Vị trí:** Lead Fullstack
 - **Thời gian:** Tháng 9 năm 2022 - Hiện tại
 - **Trách nhiệm Backend**:
   - Phát triển và duy trì hệ thống backend dựa trên Python bằng Django và FastAPI.
@@ -88,7 +88,7 @@
   - Phaser.js, Electron.js, React.js, Konva.js, WebRTC, Firebase, Node.js, Express.js, Nest.js, Gin (GoLang), Socket.io, Twilio, Agora, React Planner, Webpack, Gitlab
 
 ### Farmi
-- **Vị trí**: Nhà phát triển Web
+- **Vị trí**: Fullstack
 - **Thời gian**: Tháng 11 năm 2019 - Tháng 11 năm 2020
 - **Trách nhiệm**:
   - Cải thiện hiệu suất của Hệ thống ERP Farmi.
@@ -101,7 +101,7 @@
   - Java & Javascript, Khung làm việc Play, Khung Spring Boot, Elasticsearch, Node.js, Deno.js, Angular 8, Javascript & Typescripts, HTML, CSS, SASS, Rxjs, Webpack, GraphQL, Firebase, NVM (Quản lý phiên bản Node), Google Cloud Platform (Cloud Run, Cloud Build, Compute Engine, Source Repositories, Kubernetes Engine, Container Registry, Logging, CI/CD), Docker, Docker Compose, Gitlab
 
 ### Tập đoàn S3
-- **Vị trí**: Kỹ sư phần mềm
+- **Vị trí**: Fullstack
 - **Thời gian**: Từ tháng 1 năm 2019 - tháng 11 năm 2019
 - **Trách nhiệm**:
   - Làm việc trên Trình quản lý Trang web (SM) và các công cụ triển khai.
@@ -114,7 +114,7 @@
   - C#, .NET Framework 4, Entity Framework 4, LINQ, Redis, Azure Storage, Razor View (CSHTML), CSS, Javascript, jQuery, Slick, Bootstrap 4, AJAX, JIRA, Windows Form
 
 ### Công ty Diamond
-- **Vị trí**: Kỹ sư phần mềm
+- **Vị trí**: Fullstack
 - **Thời gian**: Từ tháng 5 năm 2017 - tháng 12 năm 2018
 - **Trách nhiệm**:
   - Phát triển các hệ thống như Hệ thống Diamond ERP, HR và CSR.
