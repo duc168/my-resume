@@ -126,7 +126,7 @@
   - Contributed to operational efficiency through system development and management.
   - Ensured optimal performance of server hardware and software.
 - **Key Technologies**:
-  -  C#, .NET Framework 4, MVC, Entity Framework4, LINQ, SQL Server, .NET Core 2.0. Entity Framework Core, Web API, Javascript & Typescript, Node.js Version 10, MongoDB, Mongoose, Express.js, JWT, Razor View (CSHTML), Javascript, KendoUI, RDLC Report, CSS, Jquery, Angular 4, Devextreme, Bootstrap 3
+  -  C#, .NET Framework 4, MVC, Entity Framework4, LINQ, SQL Server, .NET Core 2.0, Entity Framework Core, Web API, Javascript & Typescript, Node.js Version 10, MongoDB, Mongoose, Express.js, JWT, Razor View (CSHTML), Javascript, KendoUI, RDLC Report, CSS, Jquery, Angular 4, Devextreme, Bootstrap 3
 
 ### Digiwin
 - **Position**: ERP Developer
