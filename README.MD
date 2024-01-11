@@ -100,7 +100,7 @@
   - Improved the overall efficiency and functionality of the ERP system.
   - Demonstrated adaptability and proficiency in technology integration.
 - **Key Technologies**:
-  - Java & Javascript, Play Framework, Spring Boot Framework, Elasticsearch, Node.js, Deno.js, Angular 8, Javascript & Typescripts, HTML, CSS, SASS, Rxjs, Webpack, GraphQL, Firebase, NVM (Node Version Manager),Google Cloud Platform (Cloud Run, Cloud Build, Compute Engine, Source Repositories, Kubernetes Engine, Container Registry, Logging, CI/CD), Docker, Docker Compose, Gitlab
+  - Java & Javascript, Play Framework, Spring Boot Framework, Elasticsearch, Node.js, Deno.js, Angular 8, Javascript & Typescripts, HTML, CSS, SASS, Rxjs, Webpack, GraphQL, Firebase, NVM (Node Version Manager), Google Cloud Platform (Cloud Run, Cloud Build, Compute Engine, Source Repositories, Kubernetes Engine, Container Registry, Logging, CI/CD), Docker, Docker Compose, Gitlab
 
 ### S3 Corporation
 - **Position**: Web Developer
