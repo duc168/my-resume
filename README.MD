@@ -69,7 +69,7 @@
   - Built and launched significant digital products, enhancing company's digital presence.
   - Led a technical team, contributing significantly to project success.
 - **Key Technologies**:
-  - Electron.js, React.js, Next.js, Fullpage.js, Node.js, Nest.js, Chakra UI, web3-react, GSAP, Framer Motion AWS Cloud Services (AWS Amplify, AWS S3, AWS Cloudfront, AWS EKS), Github
+  - Electron.js, React.js, Next.js, Fullpage.js, Node.js, Nest.js, Chakra UI, web3-react, GSAP, Framer Motion, AWS Cloud Services (AWS Amplify, AWS S3, AWS Cloudfront, AWS EKS), Github
 
 ### Autonomous
 - **Position**: Frontend Developer
