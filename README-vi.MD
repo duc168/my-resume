@@ -52,7 +52,7 @@
   - Lãnh đạo phát triển các dự án quan trọng, đảm bảo giao hàng đúng thời hạn và đạt tiêu chuẩn chất lượng cao.
   - Tạo môi trường hợp tác với nhóm kỹ thuật đa văn hóa.
 - **Công nghệ chính**:
-  - Python, Django, FastAPI, Typescript, Javascript, Nest.js, Next.js, React.js, Vite.js, Node.js, HTML, CSS, Mantine, Styled Component, Docker, MySQL, MongoDB, Redis, AWS CDK, Các Dịch vụ Đám mây AWS (AWS SQS, AWS ECS, AWS Lambda, AWS DynamoDB, AWS Cloudfront, AWS S3, AWS Route 53, AWS Amplify), Github, JIRA
+  - Python, Django, FastAPI, Typescript, Javascript, Nest.js, Next.js, React.js, Vite.js, Node.js, HTML, CSS, Mantine, Styled Component, Docker, MySQL, MongoDB, Redis, AWS CDK, AWS Cloud Services  (AWS SQS, AWS ECS, AWS Lambda, AWS DynamoDB, AWS Cloudfront, AWS S3, AWS Route 53, AWS Amplify), Github, JIRA
 
 ### Sipher
 - **Vị trí:** Fullstack
@@ -68,7 +68,7 @@
   - Xây dựng và ra mắt các sản phẩm số quan trọng, tăng cường hiện diện số hóa của công ty.
   - Lãnh đạo một nhóm kỹ thuật, đóng góp một phần quan trọng vào thành công của dự án.
 - **Công nghệ chính**:
-  - Electron.js, React.js, Next.js, Fullpage.js, Node.js, Nest.js, Chakra UI, web3-react, GSAP, Framer Motion, Dịch vụ Đám mây AWS (AWS Amplify, AWS S3, AWS Cloudfront, AWS EKS), Github
+  - Electron.js, React.js, Next.js, Fullpage.js, Node.js, Nest.js, Chakra UI, web3-react, GSAP, Framer Motion, AWS Cloud Services  (AWS Amplify, AWS S3, AWS Cloudfront, AWS EKS), Github
 
 ### Autonomous
 - **Vị trí:** Frontend
@@ -124,7 +124,7 @@
   - Đóng góp vào hiệu suất hoạt động thông qua phát triển và quản lý hệ thống.
   - Đảm bảo hoạt động tối ưu của phần cứng và phần mềm máy chủ.
 - **Công nghệ chính**:
-  - C#, .NET Framework 4, MVC, Entity Framework 4, LINQ, SQL Server, .NET Core 2.0, Entity Framework Core, Web API, Javascript & Typescript, Node.js Phiên bản 10, MongoDB, Mongoose, Express.js, JWT, Razor View (CSHTML), Javascript, KendoUI, Báo cáo RDLC, CSS, Jquery, Angular 4, Devextreme, Bootstrap 3
+  - C#, .NET Framework 4, MVC, Entity Framework 4, LINQ, SQL Server, .NET Core 2.0, Entity Framework Core, Web API, Javascript & Typescript, Node.js Phiên bản 10, MongoDB, Mongoose, Express.js, JWT, Razor View (CSHTML), Javascript, KendoUI, RDLC Report, CSS, Jquery, Angular 4, Devextreme, Bootstrap 3
 
 ### Digiwin
 - **Vị trí**: Kỹ sư phần mềm
