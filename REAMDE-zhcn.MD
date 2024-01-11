@@ -98,7 +98,7 @@
   - 提高 ERP 系统的整体效率和功能性。
   - 在技术整合方面展现出适应性和熟练度。
 - **关键技术**：
-  - Java & Javascript, Play Framework, Spring Boot Framework, Elasticsearch, Node.js, Deno.js, Angular 8, Javascript & Typescripts, HTML, CSS, SASS, Rxjs, Webpack, GraphQL, Firebase, NVM (Node版本管理器), Google Cloud Platform (Cloud Run, Cloud Build, Compute Engine, Source Repositories, Kubernetes Engine, Container Registry, Logging, CI/CD), Docker, Docker Compose, Gitlab
+  - Java, Javascript, Play Framework, Spring Boot Framework, Elasticsearch, Node.js, Deno.js, Angular 8, Javascript & Typescripts, HTML, CSS, SASS, Rxjs, Webpack, GraphQL, Firebase, NVM (Node版本管理器), Google Cloud Platform (Cloud Run, Cloud Build, Compute Engine, Source Repositories, Kubernetes Engine, Container Registry, Logging, CI/CD), Docker, Docker Compose, Gitlab
 
 ### S3 公司
 - **职位**：网络开发人员
