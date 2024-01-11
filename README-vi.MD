@@ -98,7 +98,7 @@
   - Cải thiện hiệu suất tổng thể và tính năng của hệ thống ERP.
   - Thể hiện tính linh hoạt và sự thành thạo trong tích hợp công nghệ.
 - **Công nghệ chính**:
-  - Java, Javascript, Khung làm việc Play, Khung Spring Boot, Elasticsearch, Node.js, Deno.js, Angular 8, Javascript & Typescripts, HTML, CSS, SASS, Rxjs, Webpack, GraphQL, Firebase, NVM (Quản lý phiên bản Node), Google Cloud Platform (Cloud Run, Cloud Build, Compute Engine, Source Repositories, Kubernetes Engine, Container Registry, Logging, CI/CD), Docker, Docker Compose, Gitlab
+  - Java, Javascript, Play Framework, Spring Boot Framework, Elasticsearch, Node.js, Deno.js, Angular 8, Javascript & Typescripts, HTML, CSS, SASS, Rxjs, Webpack, GraphQL, Firebase, NVM (Quản lý phiên bản Node), Google Cloud Platform (Cloud Run, Cloud Build, Compute Engine, Source Repositories, Kubernetes Engine, Container Registry, Logging, CI/CD), Docker, Docker Compose, Gitlab
 
 ### Tập đoàn S3
 - **Vị trí**: Fullstack
