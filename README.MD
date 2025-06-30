@@ -7,6 +7,7 @@
 ## Professional Summary
 - Senior Developer with years of experience across multiple roles including Frontend, Backend, Full Stack, and DevOps. 
 - Proficient in modern technologies and programming languages, committed to delivering high-quality, efficient, and scalable solutions.
+- Passionate about continuous learning and staying abreast of the latest technologies.
 
 ## Skills
 - **Programming Languages:** TypeScript/JavaScript, Python, C#, HTML, CSS
@@ -151,10 +152,10 @@
   - Delphi, Java
 
 
-## Languages and Personal Interests
-### Languages
+## Skills and Interests
+### Language Proficiency
 - Fluent in English and Chinese (Mandarin)
-- Basic proficiency in Japanese and Cantonese.
-### Personal Interests
-- Passionate about continuous learning 
-- Staying abreast of the latest technologies.
+- Can understand written Japanese.
+### Interests
+- Musical performance: play guitar and piano, vocalist, and experienced in band collaboration
+- Marathon running and solving Rubik's cubes
