@@ -48,6 +48,11 @@
   - Monitored application performance and security using tools like AWS CloudWatch and Sentry.
   - Utilized AWS Amplify for frontend deployment within a monorepo structure, optimizing development and deployment processes; Implemented CI/CD pipelines using AWS Amplify, enhancing automation and efficiency; Managed environment variables effectively within AWS Amplify, ensuring secure and scalable application configurations.
   - Collaborated with the engineering team to streamline development workflows.
+- **Additional Responsibilities**:
+  - Provided on-call support for urgent client issues, ensuring rapid response and resolution of critical problems.
+  - Delivered training and mentorship to team members, enhancing their technical skills and professional development.
+  - Participated in recruiting processes, including technical interviews and candidate evaluation to build strong engineering teams.
+  - Acted as escalation point for client support requests, maintaining high levels of customer satisfaction and service quality.
 - **Key Achievements**:
   - Integrated complex backend and frontend systems for enhanced user experience.
   - Led development of key projects, ensuring timely delivery and high-quality standards.
