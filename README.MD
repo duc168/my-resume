@@ -70,6 +70,7 @@
   - Managed product installation, testing, operation, and maintenance.
   - Collaborated on product design and technical project management.
   - Recruited and led a technical team.
+  - Mentored and guided team members in technical skills development and best practices.
 - **Key Achievements**:
   - Built and launched significant digital products, enhancing company's digital presence.
   - Led a technical team, contributing significantly to project success.
@@ -87,6 +88,8 @@
   - Integrated Twilio's communication APIs to enhance the functionality of web and desktop applications, focusing on streamlining real-time communication features.
   - Leveraged Agora.io's real-time engagement platform to enhance application interactivity, focusing on superior audio/video communication capabilities.
   - Integrated Google Maps API into web applications, specializing in customizing map markers for enhanced geographic visualization and user interaction.
+  - Participated in technical interview processes and candidate evaluation to support team growth.
+  - Facilitated knowledge sharing sessions and technical discussions with team members.
 - **Key Achievements**:
   - Enhanced user engagement through innovative application development.
   - Showcased exceptional technical skills in frontend development.
@@ -101,6 +104,7 @@
   - Improved the efficiency of the Farmi ERP System.
   - Developed new features and researched new technologies.
   - Collaborated with engineers and product managers on API design and feature testing.
+  - Supported team development through technical guidance and code review processes.
 - **Key Achievements**:
   - Improved the overall efficiency and functionality of the ERP system.
   - Demonstrated adaptability and proficiency in technology integration.
@@ -113,6 +117,7 @@
 - **Responsibilities**:
   - Worked on Site Manager (SM) and deployment tools.
   - Involved in SCRUM workflow, feature development, and user support.
+  - Supported team members with knowledge sharing and collaborative problem-solving.
   - Technologies used include C#, .NET Framework, Azure, and various web technologies.
 - **Key Achievements**:
   - Enhanced the functionality and user experience of the Site Manager platform.
